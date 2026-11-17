@@ -5,7 +5,7 @@ PyTorch Forecasting:
 https://pytorch-forecasting.readthedocs.io/en/stable/
 https://pytorch-forecasting.readthedocs.io/en/v1.3.0/tutorials.html
 
-TimesFM (time series foundation model):
+TimesFM (time series foundation models):
 
 https://codemaker2016.medium.com/exploring-timesfm-the-foundation-model-that-understands-the-language-of-time-57486ebca761#44c4
 
